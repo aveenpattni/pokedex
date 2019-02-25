@@ -1,3 +1,7 @@
+Pokédex was made to practice React application building as well as using data from API's.
+Pokédex will show a list of all Pokémon which can be searched through.
+If a Pokémon is clicked, further details will be displayed using React routing.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
